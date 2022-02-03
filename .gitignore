@@ -34,4 +34,4 @@ yarn-error.log*
 # vercel
 .vercel
 
-delete_node_modules_folders
+delete_node_modules_folders.sh
